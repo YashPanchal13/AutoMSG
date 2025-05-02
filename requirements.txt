@@ -1,7 +1,5 @@
-gunicorn
-webbrowser
-os
 streamlit
 pandas
 pyautogui
 openpyxl
+gunicorn
