@@ -1,0 +1,7 @@
+import time
+webbrowser
+os
+streamlit
+pandas
+pyautogui
+openpyxl
